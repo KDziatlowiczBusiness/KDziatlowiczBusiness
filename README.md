@@ -13,7 +13,7 @@ Obecnie uczę się języków Python, HTML i CSS, ale moje plany na przyszłość
 
 ## Aktualne projekty:
 
-W tej chwili pracuję nie pracuje nad żadnymi projektami poniważ się szkole
+Aktualnie pracuje nad własną stroną intetową aby używać jej jako własnej wizytówki
 
 
 ## Edukacja:
